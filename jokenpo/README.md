@@ -1,16 +1,8 @@
 # jokenpo
-
+Aplicativo criado a parti do Curso Desenvolvimento Android e IOS com Flutter 2021
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![jokenpo](https://user-images.githubusercontent.com/79750052/144894007-2c844d69-830a-4589-a427-4ebb3d902868.PNG)
+ 
+ a intenção do aplicativo é simular partidas do jogo classico "Jokenpo" também conhecido como pedra, papel, tesoura
+ ao fazer sua escolha o programa seleciona aleatoriamente a escolha dele e o resultado da tela muda de acordo 
+ com as combinações.
