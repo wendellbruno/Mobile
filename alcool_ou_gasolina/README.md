@@ -1,16 +1,6 @@
 # alcool_ou_gasolina
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![abastecimento](https://user-images.githubusercontent.com/79750052/145262629-1dc18315-dedf-4afc-ae72-1fc30e4e3234.PNG)
+Aplicativo criado a parti do Curso (Desenvolvimento Android e IOS com Flutter 2021).
+App se basea em calcular o preço do álcool x gasolina e ver qual vale mais apena abastecer
